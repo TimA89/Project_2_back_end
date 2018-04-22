@@ -1,4 +1,4 @@
-<% project_name = 'organizer-api-template' %>
+<% project_name = 'rails-api-template' %>
 
 default: &default
   adapter: postgresql
